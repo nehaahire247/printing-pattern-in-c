@@ -1,3 +1,9 @@
+program to print * * * * *
+                 * * * * 
+                 * * *
+                 * *
+                 *
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
