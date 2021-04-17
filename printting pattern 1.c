@@ -1,3 +1,10 @@
+programe to print pattern 
+* * * * * 
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
